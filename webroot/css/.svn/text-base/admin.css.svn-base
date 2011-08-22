@@ -1,0 +1,46 @@
+body 
+{
+        background-color: gray;
+}
+
+#pagina 
+{
+        width:100%;
+        margin: 0 auto;
+        background-color: white;
+		text-align: center;
+}
+
+#header h3
+{
+	float: right;
+	margin-top: -60px;
+	padding-right: 5px;
+	font-size: 14px;
+}
+
+#menu li
+{
+	display: inline;
+	margin: 5px 10px;
+	list-style-type: none;
+	
+}
+
+#conteudo 
+{
+	padding: 10px 25px;
+	clear: both;
+}
+
+#conteudo p
+{
+	text-align: justify;
+}
+
+
+#conteudo td, #conteudo tr, #conteudo th 
+{
+    border: 1px #CCCCCC solid;
+    text-align: center;
+}

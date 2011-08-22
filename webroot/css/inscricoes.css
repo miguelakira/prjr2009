@@ -1,0 +1,127 @@
+#UserAddForm 
+{
+	margin-left: 30px;
+	color: #3C4091;
+	font-weight: bold;
+}
+
+#UserAddForm .submit
+{
+	width: 70px;
+	padding: 3px;
+	margin-top: 10px;
+	margin-left: 200px;
+}
+
+#UserName
+{
+	margin-top: 5px;
+	margin-left: 10px;
+	margin-bottom: 5px;
+	width: 300px;
+}
+
+#UserUsername
+{
+	margin-left: 14px;
+	margin-bottom: 5px;
+}
+
+#UserPassword
+{
+	margin-left: 10px;
+	margin-bottom: 5px;
+	width: 150px;
+}
+
+#UserSexo
+{
+	margin-left: 16px;
+	margin-bottom: 5px;
+	width: 150px;
+}
+
+#UserRg
+{
+	margin-left: 30px;
+	margin-bottom: 5px;
+	width: 150px;
+}
+
+#UserCpf
+{
+	margin-left: 21px;
+	margin-bottom: 5px;
+	width: 150px;
+}
+#UserTelefone
+{
+	margin-left: 9px;
+	margin-bottom: 5px;
+	width: 130px;	
+}
+
+#UserCelular
+{	
+	margin-left: 5px;
+	margin-bottom: 5px;
+	width: 150px;	
+}
+
+#UserDataNascDay
+{
+	margin-left: 8px;
+	margin-bottom: 5px;	
+}
+
+#UserDataNascMonth
+{
+	margin-left: 2px;
+}
+
+#UserDataNascYear
+{
+	margin-left: 2px;
+}
+
+#UserEmail
+{
+	margin-left: 21px;
+	margin-top: 5px;		
+	width: 238px;
+}
+
+#UserIes
+{
+	margin-left: 6px;
+	margin-top: 5px;		
+	width: 200px;
+}
+
+#UserFederacao
+{
+	margin-left: 21px;
+	margin-top: 5px;		
+	width: 150px;
+}
+
+#UserCamiseta
+{
+	margin-left: 21px;
+	margin-top: 5px;		
+	width: 150px;
+}
+
+#UserLocalizacao
+{
+	margin-left: 38px;
+	margin-top: 5px;		
+	width: 150px;
+}
+
+#UserAddForm .tabela_precos
+{
+	margin-top: 5px;
+	margin-left: 50px;
+	margin-bottom: 10px;
+}

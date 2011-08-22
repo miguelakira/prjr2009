@@ -1,0 +1,188 @@
+.noticias table
+{ 
+	margin-top: 10px;
+	font-size: 10pt;
+	width: 600px
+}
+
+.noticias h2
+{
+	font-family: Arial;
+	font-size: 12pt;
+	font-weight: bold;
+	color:#3C4091;
+	margin-bottom: 10px;
+	margin-right: 550px;
+	margin-top: 15px;
+}
+
+.noticias .actions li 
+{
+	margin-right: 500px;
+	margin-bottom: 10px;
+	font-size: 10pt;
+}
+
+#header a
+{
+	display: block;
+	margin-top: 48px;
+	margin-right: 70px;
+}
+
+#menu ul
+{
+	width: 500px;
+	margin-left: 250px; 
+	margin-top: -30px;
+}
+
+.paging .prev .disabled	
+{
+	margin-top: 15px;
+	margin-right: 120px;
+}
+
+.paging .next .disabled
+{
+	margin-top: -16px;
+	margin-right: -100px;
+}
+
+.paging
+{
+	margin-left: 300px;
+}
+
+#titulo h1
+{
+	font-size: 18pt;
+	color:#3C4091;
+	font-weight: bold;
+	height: 70px;
+	padding-top: 15px;
+	padding-bottom: 10px;
+}
+
+#NoticiaTitulo
+{
+	margin: 15px;
+}
+
+#NoticiaAddForm  legend
+{
+	font-family: Arial;
+	font-size: 11pt;
+	font-weight: bold;
+	color:#3C4091;
+	margin-left: 10px;
+}
+
+#NoticiaEditForm  legend
+{
+	font-size: 11pt;
+	font-weight: bold;
+	color:#3C4091;
+	margin-left: 10px;
+}
+
+.botoes_edit
+{
+	margin-left: 15px;	
+}
+
+.botoes_edit #delete li
+{
+	width: 60px;
+	margin-top: 15px;
+	font-size: 11pt;
+}
+
+.botoes_edit #voltar li
+{
+	width: 60px;
+	margin-top: -25px;
+	margin-left: 60px;
+	font-size: 11pt;
+}
+
+.noticias #titulo_edit label
+{
+	margin-left: -520px;
+	color:#3C4091;
+	font-size: 11pt;	
+}
+
+.noticias #titulo_add label
+{
+	margin-left: -520px;
+	color:#3C4091;
+	font-size: 11pt;	
+}
+
+.noticias #checkbox_edit label
+{
+	width: 80px;
+	padding-top: 5px;
+	color:#3C4091;
+	font-size: 11pt;
+}
+
+.noticias #checkbox_add label
+{
+	width: 80px;
+	padding-top: 5px;
+	color:#3C4091;
+	font-size: 11pt;
+}
+
+#checkbox_edit 
+{
+	margin: 5px;
+	margin-bottom: 40px;
+}
+
+#checkbox_add
+{
+	margin: 5px;
+	margin-top: 40px;
+}
+
+#enviar_edit 
+{
+	width: 60px;
+	margin-top: 10px;
+	margin-right: -500px;
+}
+
+#enviar_add
+{
+	width: 60px;
+	margin-top: 10px;
+	margin-right: -500px;	
+}
+
+#view_conteudo dt
+{
+ 	font-size 12pt;
+	text-align: left;
+	margin-top: 5px;
+	margin-left: 90px;
+	color:#3C4091;	
+}
+
+#view_conteudo dd
+{
+	text-align: left;
+	margin-left: 90px;
+	padding: 5px;
+}
+
+#noticias_view2 li
+{
+	margin: 10px;
+	margin-top: 30px;
+	margin-left: 60px;
+	width: 100px;
+	float: left;
+}

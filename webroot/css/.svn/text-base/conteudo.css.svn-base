@@ -1,0 +1,172 @@
+#conteudo {
+	float: right;
+	width: 475px;
+	margin: 20px 25px 0 0;
+        _margin: 13px 0 0 0;
+        _padding-right: 25px;
+}
+
+#conteudo td, #conteudo tr, #conteudo th {
+    border: 1px #CCCCCC solid;
+    text-align: center;
+}
+
+#conteudo h3 {
+    border-bottom: 5px solid #EAEAEB;
+    color: #999999;
+    font-family: Arial;
+	font-size: 20px;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+#conteudo p {
+    text-align: justify;
+    text-indent: 15px;
+    margin: 10px 0 10px 0;
+	color: #999999;
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 10pt;
+}
+
+#conteudo .disc {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+#conteudo .logos{
+        margin: 0 auto;
+        width: 284px;
+}
+
+#conteudo .grade{
+        margin: 10px auto;
+        width: 436px;
+}
+
+#conteudo .foto_curitiba{
+        margin: 0 auto;
+        width: 440px;
+}
+
+#conteudo .local_prog{
+        margin: 0 auto;
+        width: 220px;
+}
+
+#conteudo .local_prog img{
+        margin-top: 20px;
+}
+
+.error .error-message {
+    color: #999999;
+}
+
+#erros {
+    background-color: #ddebfd;
+    margin-top: 5px;
+    text-align: justify;
+}
+
+#erros p{
+    padding-top: 10px;
+	font-family: Arial;
+}
+
+#erros li{
+    padding-top: 5px;
+}
+
+#erros ul{
+    padding: 0 5px 10px 5px;
+}
+
+#conteudo a.ancora.inicio{
+    margin-left: 290px;
+    color: #999;
+}
+
+#conteudo a.ancora {
+    text-decoration: underline;
+    color: #000;
+}
+
+#conteudo strong {
+    font-weight: bold;
+}
+
+#conteudo #fotos_alojamento li{
+    width: 440px;
+    margin: 10px auto;
+}
+
+.noticias dd
+{
+	margin: 15px;
+}
+
+#noticia_data dd
+{
+	margin-top: -30px;
+	margin-left: 170px;
+	color: #3C4091;	
+}
+
+.noticia_data
+{
+	color: #3C4091;
+}
+
+.ver_todas a
+{
+	margin-top: 60px;
+	margin-left: 300px;
+}
+
+.noticia_titulo
+{
+	font-family: Arial;
+	font-weight: bold;
+	color: #3C4091;
+	font-size: 11pt;
+}
+
+.noticia_texto
+{
+	font-size: 8pt;
+	font-family: Arial;
+}
+
+.paging .prev .disabled	
+{
+	margin-top: 14px;
+	margin-left: 10px;
+}
+
+.paging .next .disabled
+{
+	margin-top: -15px;
+	margin-left: 100px;
+}
+
+.paging
+{
+	margin-left: 250px;
+	margin-bottom: 10px;
+}
+
+.ultimas a
+{
+	margin-top: 10px;
+	margin-left: 300px;
+	margin-bottom: 10px;
+}
+
+.voltar
+{
+	font-weight: bold;
+	margin-top: 10px;
+	margin-left: 350px;
+	padding: 5px;
+}

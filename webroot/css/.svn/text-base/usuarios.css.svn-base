@@ -1,0 +1,80 @@
+.users h2
+{
+	font-size: 12pt;
+	font-weight: bold;
+	color:#3C4091;
+	margin-bottom: 10px;
+	margin-right: 550px;
+	margin-top: 15px;
+}
+
+
+#user_nome
+{
+	font-weight: bold;
+	color:#3C4091;
+	float: left;
+	margin-left: 45px;
+	margin-bottom: 10px;	
+	clear: both;
+}
+
+#user_username 
+{
+	font-weight: bold;
+	color:#3C4091;
+	margin-right: 300px;
+	margin-top: -32px;
+	float: right;
+	clear: both;
+} 
+
+#user_ativo
+{	
+	font-weight: bold;
+	color:#3C4091;
+	margin-left: 505px;
+	margin-top: -31px;
+	float: left;
+	clear: both;
+}
+
+#user_submit
+{	
+	float: right;
+	clear: both;
+	margin-top: 10px;
+	margin-right: 350px;
+	margin-bottom: 15px;
+}
+
+#users_edit
+{
+	float: left;
+	margin-left: 50px;	
+}
+
+#users_delete
+{
+	float: left;
+	margin-top: -25px;
+	margin-left: 150px;
+}
+
+.users #legenda_camisetas h3
+{
+	width: 200px;
+	margin-top: 5px;
+	margin-right: 100px;
+	margin-bottom:5px;
+	font-weight: bold;
+	color:#3C4091;
+}
+
+.users #legenda_camisetas p
+{
+	width: 400px;
+	margin-top: 5px;
+	margin-left: 60px;
+	margin-bottom:5px;
+}

@@ -1,0 +1,87 @@
+<<<<<<< .mine
+/* SVN FILE: $Id: misc.css 6311 2008-01-02 06:33:52Z phpnut $ */
+/**
+ * Menu App CSS
+ */
+
+<!--[if IE]>
+<style type="text/css" media="screen">
+body {
+behavior: url(csshover.htc); /* call hover behaviour file */
+font-size: 100%; /* enable IE to resize em fonts */
+} 
+#menu ul li {
+float: left; /* cure IE5.x "whitespace in lists" problem */
+width: 100%;
+}
+#menu ul li a {
+height: 1%; /* make links honour display: block; properly */
+} 
+
+=======
+>>>>>>> .r110
+#menu a, #menu h2 {
+font: bold arial, helvetica, sans-serif; 
+/* if required use em's for IE as it won't resize pixels */
+} 
+</style>
+<![endif]-->
+
+div#body {
+    margin-top: 60px;
+}
+
+div#menu  {
+
+    margin: 0 60px 0 80px;
+    _margin-left: 14px;
+    float: left;
+    padding: 5px;
+}
+
+.pai li {
+    width: 200px;
+    text-align: right;
+    border-bottom: 6px #c1df9c solid;
+    padding: 12px 0;
+    color: #363691;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.filho li a{
+    color: #999999;
+    font-size: 12px;
+    font-weight: normal;
+    background: #f4f9ec url("../img/back_menu.gif") repeat-x;
+    background-position: top;
+    display: block;
+    padding: 0 2px 3px 0;
+}
+
+.filho {
+    padding-top: 12px;
+}
+
+.filho li {
+    padding: 0;
+    border: none;
+}
+
+#menu .ultimo {
+    border: none;
+}
+
+#UserLoginForm
+{
+	margin-left: 17px;
+	margin-bottom: -18px;
+ 	color: #3C4091;
+	font-weight: bold;
+}
+<<<<<<< .mine
+
+#menu .ultimo {
+    border: none;
+}=======
+>>>>>>> .r110

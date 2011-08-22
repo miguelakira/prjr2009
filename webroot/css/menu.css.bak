@@ -1,0 +1,107 @@
+/* SVN FILE: $Id: misc.css 6311 2008-01-02 06:33:52Z phpnut $ */
+/**
+ * Menu App CSS
+ */
+
+
+div#body {
+    margin-top: 60px;
+}
+
+div#menu  {
+
+    margin: 0 60px 0 30px;
+    _margin-left: 14px;
+    float: left;
+    padding: 5px;
+}
+
+.menu {
+	width:12em;
+}
+.menu ul {
+	list-style-image:none;
+	list-style-position:outside;
+	list-style-type:none;
+	margin:0pt;
+	padding:0pt;
+}
+.menu a, .menu h2, .menu  .current, .menu  .parent  {
+	border-color:#CCCCCC rgb(136, 136, 136) rgb(85, 85, 85) rgb(187, 187, 187);
+	border-style:solid;
+	border-width:1px;
+	display:block;
+	font-family:arial,helvetica,sans-serif;
+	font-size:11px;
+	font-size-adjust:none;
+	font-stretch:normal;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:16px;
+	margin:0pt;
+	padding:2px 3px;
+}
+.menu h2 {
+	background:#3C4091 none repeat scroll 0%;
+	color:#FFFFFF;
+	text-transform:uppercase;
+}
+.menu a, .menu  .current, .menu  .parent   {
+	background:#f4f9ec url("../img/back_menu.gif") repeat-x; none repeat scroll 0%;
+	color:#000000;
+	text-decoration:none;
+}
+.menu a:hover, .menu  .current, .menu .parent:hover  {
+	background:#FFFFFF none repeat scroll 0%;
+	color:#AA0000;
+}
+.menu li {
+	position:relative;
+	padding:0; margin: 0;
+}
+.menu ul ul ul {
+	left:100%;
+	position:absolute;
+	top:0pt;
+	width:100%;
+}
+div.menu ul ul ul, div.menu ul ul li:hover ul ul {
+	display:none;
+}
+div.menu ul ul li:hover ul, div.menu ul ul ul li:hover ul {
+	display:block;
+}
+
+#UserLoginForm
+{
+	margin-left: 17px;
+	margin-bottom: -18px;
+ 	color: #3C4091;
+	font-weight: bold;
+}
+
+#menu .ultimo {
+    border: none;
+}
+<!--[if IE]>
+<style type="text/css" media="screen">
+body {
+behavior: url(csshover.htc); /* call hover behaviour file */
+font-size: 100%; /* enable IE to resize em fonts */
+} 
+#menu ul li {
+float: left; /* cure IE5.x "whitespace in lists" problem */
+width: 100%;
+}
+#menu ul li a {
+height: 1%; /* make links honour display: block; properly */
+} 
+
+#menu a, #menu h2 {
+font: bold arial, helvetica, sans-serif; 
+/* if required use em's for IE as it won't resize pixels */
+} 
+</style>
+<![endif]-->
+

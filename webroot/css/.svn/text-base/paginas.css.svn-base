@@ -1,0 +1,220 @@
+.paginas h2
+{
+	font-family: Arial;
+	font-size: 12pt;
+	font-weight: bold;
+	color:#3C4091;
+	margin-bottom: 10px;
+	margin-right: 550px;
+	margin-top: 15px;
+}
+.paginas h3 {
+	font-family: Arial;
+    border-bottom: 5px solid #EAEAEB;
+    color: #999999;
+    font-size: 20px;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+.paginas table
+{ 
+	margin-left: 30px;
+	margin-top: 10px;
+	font-size: 10pt;
+	width: 600px
+}
+
+.paginas .actions li 
+{
+	margin-right: 500px;
+	margin-bottom: 2px;
+	font-size: 10pt;
+}
+
+.paginas .paging #prev .disabled	
+{
+	margin-top: 25px;
+	margin-right: 120px;
+}
+
+.paging #next .disabled
+{
+	margin-top: -16px;
+	margin-right: -100px;
+}
+
+.paginas .paging
+{
+	margin-top: 300px;
+}
+
+#prev .disabled	
+{
+	margin-top: 15px;
+	margin-right: 120px;
+}
+
+.paging .next .disabled
+{
+	margin-top: -16px;
+	margin-right: -100px;
+}
+
+.paging
+{
+	margin-left: 300px;
+}
+
+#PaginaAddForm  legend
+{
+	font-size: 11pt;
+	font-weight: bold;
+	color:#3C4091;
+}
+
+#PaginaAddForm  #voltar
+{
+	position: relative;
+	left: 100px;
+	top: 17px;
+}
+
+#CategoriaAddForm legend
+{
+	font-size: 11pt;
+	font-weight: bold;
+	color:#3C4091;
+}
+
+#PaginaEditForm  legend
+{
+	font-size: 11pt;
+	font-weight: bold;
+	color:#3C4091;
+	margin-left: 10px;
+}
+
+#CategoriaEditForm  legend
+{
+	font-size: 11pt;
+	font-weight: bold;
+	color:#3C4091;
+	margin-left: 10px;
+}
+
+#PaginaTitulo
+{
+	margin: 15px;
+}
+
+.paginas #titulo_pagina label
+{
+	margin: 15px;
+	margin-left: -520px;
+	color:#3C4091;
+	font-size: 11pt;	
+}
+
+.paginas #titulo_edit label
+{
+	margin: 15px;
+	margin-left: -520px;
+	color:#3C4091;
+	font-size: 11pt;	
+}
+
+.paginas #ativo_pagina label
+{
+	width: 80px;
+	padding-top: 5px;
+	color:#3C4091;
+	font-size: 11pt;
+}
+
+.paginas #ativo_edit label
+{
+	width: 80px;
+	padding-top: 5px;
+	color:#3C4091;
+	font-size: 11pt;
+}
+.paginas #ativo_pagina label
+{
+	width: 80px;
+	padding-top: 5px;
+	color:#3C4091;
+	font-size: 11pt;
+}
+
+#checkbox_edit 
+{
+	margin: 5px;
+	margin-bottom: 40px;
+}
+
+#ativo_pagina
+{
+	margin: 5px;
+	margin-top: 40px;
+}
+
+#enviar_pagina 
+{
+	width: 60px;
+	margin-top: 10px;
+	margin-right: -500px;
+}
+
+#enviar_paginas
+{
+	width: 60px;
+	margin-top: 10px;
+	margin-right: -500px;	
+}
+
+#paginas_conteudo dt
+{
+ 	font-size 12pt;
+	text-align: left;
+	margin-top: 5px;
+	margin-left: 90px;
+	color:#3C4091;	
+}
+
+#paginas_conteudo dd
+{
+	text-align: left;
+	margin-left: 90px;
+	padding: 5px;
+}
+
+
+#paginas_li li
+{
+	margin: 10px;
+	margin-top: 30px;
+	margin-left: 60px;
+	width: 100px;
+	float: left;
+}
+.botoes_edit
+{
+	margin-left: 15px;	
+}
+
+.botoes_edit #delete li
+{
+	width: 60px;
+	margin-top: 15px;
+	font-size: 11pt;
+}
+
+.botoes_edit #voltar li
+{
+	width: 60px;
+	margin-top: -25px;
+	margin-left: 60px;
+	font-size: 11pt;
+}
+
